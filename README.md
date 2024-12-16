@@ -58,7 +58,4 @@ Contributions are welcome! Follow these steps:
 
 **💡 Let's build and explore the power of generative models together!**
 
-Let me know if you need additional modifications! 🚀
-
-
 
